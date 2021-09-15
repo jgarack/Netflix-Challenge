@@ -10,7 +10,7 @@ prize of $1,000,000 awarded to the algorithm with the best improvement over Netf
 improvement of over 10% compared to “Cinematch”. [1]
 
 ***
-##Code structure
+## Code structure
 the assignment consists of 4 .py files:
 
 * **Latent_factor_with_global_bias.py** - implementation of Latent factor model with global effect and user/movie biases
@@ -19,7 +19,7 @@ the assignment consists of 4 .py files:
 
     
 ***
-####main methods:
+#### main methods:
 * *compute_avg_movie_and_user_ratings()* - computes the biases of the users and movies
 * *avg_movie_rating()* - computes the global average
 * *rmse()* - computes the RMSE of the given ratings compared to the true ratings
